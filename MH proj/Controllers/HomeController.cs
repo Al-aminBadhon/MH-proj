@@ -106,11 +106,45 @@ namespace MH_proj.Controllers
             return Accepted();
         }
         public IActionResult Privacy3()
-        {
+        {\
+            List<int> ints = new List<int>();
+            List<int> int1 = new List<int>();
+            List<int> int2 = new List<int>();
+            List<int> int3 = new List<int>();
+            List<int> int4 = new List<int>();
+            List<int> int5 = new List<int>();
+            List<int> int6 = new List<int>();
+            List<int> int7 = new List<int>();
+            List<int> int8 = new List<int>();
+            List<int> int9 = new List<int>();
+            List<int> int0 = new List<int>();
+            List<int> int11 = new List<int>();
+            List<int> int12 = new List<int>();
+            List<int> int13 = new List<int>();
+            List<int> int14 = new List<int>();
+            List<int> int15 = new List<int>();
+            List<int> int16 = new List<int>();
             return View();
         }
         public IActionResult Privacy4()
         {
+            List<int> ints = new List<int>();
+            List<int> int1 = new List<int>();
+            List<int> int2 = new List<int>();
+            List<int> int3 = new List<int>();
+            List<int> int4 = new List<int>();
+            List<int> int5 = new List<int>();
+            List<int> int6 = new List<int>();
+            List<int> int7 = new List<int>();
+            List<int> int8 = new List<int>();
+            List<int> int9 = new List<int>();
+            List<int> int0 = new List<int>();
+            List<int> int11 = new List<int>();
+            List<int> int12 = new List<int>();
+            List<int> int13 = new List<int>();
+            List<int> int14 = new List<int>();
+            List<int> int15 = new List<int>();
+            List<int> int16 = new List<int>();
             return View();
         }
         public IActionResult Privacy5()
