@@ -2308,6 +2308,8 @@ namespace MH_proj.Controllers
             Console.WriteLine("Text added for sync new one asdadasdadasdasdasd555555 ");
             Console.WriteLine("Text added for sync new one asdadasdadasdasdasd555555 ");
             Console.WriteLine("Text added for sync new one asdadasdadasdasdasd555555 ");
+            Console.WriteLine("Text added for sync new one asdadasdadasdasdasd555555 ");
+            Console.WriteLine("Text added for sync new one asdadasdadasdasdasd555555 ");
             Console.WriteLine("Text added for sync new one asdadasdadasdasdasd555555 ");Console.WriteLine("Text added for sync new one asdadasdadasdasdasd555555 ");
             Console.WriteLine("Text added for sync new one asdadasdadasdasdasd555555 ");
             Console.WriteLine("Text added for sync new one asdadasdadasdasdasd555555 ");
