@@ -436,6 +436,8 @@ namespace MH_proj.Controllers
             Console.WriteLine("Text added for sync new one asdadasdadasdasdasd111111222 ");
             Console.WriteLine("Text added for sync new one asdadasdadasdasdasd111111222 ");
             Console.WriteLine("Text added for sync new one asdadasdadasdasdasd111111222 ");
+            Console.WriteLine("Text added for sync new one asdadasdadasdasdasd111111222 ");
+            Console.WriteLine("Text added for sync new one asdadasdadasdasdasd111111222 ");
             
 
 
