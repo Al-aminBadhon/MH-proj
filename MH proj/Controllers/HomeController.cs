@@ -37,6 +37,7 @@ namespace MH_proj.Controllers
             List<int> int14 = new List<int>();
             List<int> int15 = new List<int>();
             List<int> int16 = new List<int>();
+            List<int> int17 = new List<int>();
            
 
             return View();
