@@ -109,7 +109,6 @@ namespace MH_proj.Controllers
         }
         public IActionResult Privacy3()
         {
-            
             List<int> ints = new List<int>();
             List<int> int1 = new List<int>();
             List<int> int2 = new List<int>();
