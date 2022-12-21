@@ -64,7 +64,6 @@ namespace MH_proj.Controllers
             List<int> int16 = new List<int>();
             Console.WriteLine("Demo text");
             Console.WriteLine("Demo text");
-            Console.WriteLine("Demo text");
 
             return Ok();
         }
