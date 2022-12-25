@@ -65,6 +65,7 @@ namespace MH_proj.Controllers
             Console.WriteLine("Demo text");
             Console.WriteLine("Demo text");
             Console.WriteLine("Demo text");
+            Console.WriteLine("Demo text");
 
             return Ok();
         }
