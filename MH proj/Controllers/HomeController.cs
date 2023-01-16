@@ -1,4 +1,5 @@
-﻿using MH_proj.Models;
+﻿using App.Home.Data;
+using MH_proj.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -38,7 +39,7 @@ namespace MH_proj.Controllers
             List<int> int15 = new List<int>();
             List<int> int16 = new List<int>();
             List<int> int17 = new List<int>();
-           
+
 
             return View();
         }
@@ -65,9 +66,15 @@ namespace MH_proj.Controllers
             Console.WriteLine("Demo text");
             Console.WriteLine("Demo text");
             Console.WriteLine("Demo text");
-           
+
 
             return Ok();
+        }
+
+        public IActionResult Privacy1()
+        {
+           
+            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
