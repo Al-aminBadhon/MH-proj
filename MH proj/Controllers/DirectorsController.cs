@@ -98,7 +98,7 @@ namespace MH_proj.Controllers
                 try
                 {
                     _context.Update(tblDirectors);
-                    await _context.SaveChangesAsync();
+                    await _context.SaveChangesAsync(); 
                 }
                 catch (DbUpdateConcurrencyException)
                 {
